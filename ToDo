@@ -5,6 +5,7 @@ If okay, add your hacks
 
 RTL_FM_PLAYER
 lower delays (parece ser uns 12 segundos no w10)
+cb transfer status: 4, canceling...
 https://www.mkssoftware.com/docs/man3/pthread_attr_setschedparam.3.asp
 https://github.com/yangy2/CSC345-Project-2/blob/a1027df1f91a88f20c5878b58d076d24dfca68c2/Project2.c
 https://github.com/AlejandroLIF/EE4214_BrickBreaker/blob/59641f48ac0de0f36995db2a1be5032f7dda4c5c/secondarycore.c
