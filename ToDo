@@ -9,3 +9,8 @@ cb transfer status: 4, canceling...
 https://www.mkssoftware.com/docs/man3/pthread_attr_setschedparam.3.asp
 https://github.com/yangy2/CSC345-Project-2/blob/a1027df1f91a88f20c5878b58d076d24dfca68c2/Project2.c
 https://github.com/AlejandroLIF/EE4214_BrickBreaker/blob/59641f48ac0de0f36995db2a1be5032f7dda4c5c/secondarycore.c
+
+SDL2
+https://github.com/Interrupt/systemshock/blob/bfe222316d4a3d092c993c4278be02d11686ef69/src/GameSrc/audiolog.c
+https://github.com/kvdheijden/NEC/blob/818be4af591bd0912df56b97be7d57add96ad3dd/src/GB/audio.c
+https://wiki.libsdl.org/Tutorials/AudioStream
